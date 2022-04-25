@@ -2,3 +2,4 @@ milk
 rice
 butter
 eggs
+toilet paper
